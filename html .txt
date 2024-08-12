@@ -1,0 +1,76 @@
+html 
+
+heading
+<h1> title </h1>
+h1
+h2
+h3
+h4
+h5
+h6
+no h7 and above
+
+<p> paragraph detail </p>
+
+<a> make a way to page </a>
+
+<a href="http//myntra.com>
+myntra <a>
+
+
+image 
+
+<image src="image.jpge"alt= "Vijay image" width = "100px"> <br>                                                      <br> for next line 
+
+<h> title </h1.
+
+
+iframe
+
+
+<iframe src="link" ></iframe> 
+
+the page reffered by the link is to be shown in our page
+
+
+form
+
+<html>
+<head>
+    details
+</head>    
+<body>
+    <form>
+        <lable>Name :</lable><input type ="text" placeholder = "Enter name"><br>
+        <lable>degree :</lable><input type ="text" placeholder = "degree"><br>
+        <lable>department :</lable><input type ="text" placeholder = "dep"><br>
+        <lable>year :</lable><input type ="number" placeholder = "yr"><br>
+        <lable>email :</lable><input type ="email" placeholder = "@gmail.com"><br>
+        
+
+
+
+    </form>
+    <button><a href="file:///C:/Users/Aswin/Documents/New%20folder/Untitled-1.html"> next</a></button>
+</body>
+</html>
+
+
+outputdetails
+Name :
+Enter name
+
+degree :
+degree                                                    box created for user types
+                                    
+department :
+dep
+
+year :
+       yr
+
+email :                                      
+@gmail.com
+
+next
+
